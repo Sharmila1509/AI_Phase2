@@ -2,7 +2,7 @@
  Below is a template you can use to create your own README for a sentiment analysis project. Make sure to replace the placeholders with your project-specific information.
  # Sentiment Analysis Project
 
-![Project Logo/Image (if applicable)](link_to_logo_or_image.png)
+![Project Logo/Image (if applicable)]( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQshsrNOliuMDbspsluEvZEx94GsyeR2esMkwFo-q8JzfndQY3B_Qsx7ZIwD7uy_biRtBs&usqp=CAU)
 
 A brief description of your sentiment analysis project. Explain what it does and why it's valuable.
 
